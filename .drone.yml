@@ -4,6 +4,9 @@ name: build arm64
 platform:
   os: linux
   arch: arm64
+  
+node:
+  city: sydney
 
 trigger:
   event:
